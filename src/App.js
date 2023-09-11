@@ -268,6 +268,7 @@ the car's movement"
                 <PhoneIcon style={{ color: "white", width: 65, height: 65 }} />
               </a>
             </Group>
+            <h2 style={{ textAlign: "left" }}>📞 Contact Me </h2>
           </Stack>
         </header>
       </header>
