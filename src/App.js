@@ -14,6 +14,7 @@ import map from "./images/map.png";
 import mail from "./images/mail.png";
 import github from "./images/github.png";
 import linkedin from "./images/linkedin.png";
+import PhoneIcon from "@mui/icons-material/Phone";
 function App() {
   const mailto = "mailto:elai.mizrahi@gmail.com";
   return (
@@ -50,15 +51,18 @@ function App() {
               <div
                 style={{
                   paddingTop: "20px",
-                  textAlign: "left",
+                  textAlign: "center",
+                  display: "flex",
                   fontFamily: "-apple-system, BlinkMacSystemFont, sans-serif",
                 }}
               >
                 I am currently entering my second year of studying Software
                 Engineering at the University of Waterloo. Most recently, I
-                developed fullstack features at Secoda, a YC S21 company. Now, I
-                am searching for a Winter 2024 co-op in a software engineering
-                or related position. You can reach me at emizrahi@uwaterloo.ca.
+                completed a co-op term at Secoda, a YC S21 company, developing
+                fullstack features for the engineeering team. I am now looking
+                for a Winter 2024 co-op position in software engineering or a
+                related field. You can reach me at emizrahi@uwaterloo.ca, or
+                click any of the links at the bottom of the page.
               </div>
             </Box>
             <h2 style={{ textAlign: "left", marginBottom: 0 }}>
@@ -260,8 +264,8 @@ the car's movement"
               <a href={"https://linkedin.com/elai-mizrahi"}>
                 <img src={linkedin} height={60} width={60} />
               </a>
-              <a href={"tel:"}>
-                <img src={linkedin} height={60} width={60} />
+              <a href={"tel:2269882795"}>
+                <PhoneIcon style={{ color: "white", width: 65, height: 65 }} />
               </a>
             </Group>
           </Stack>
