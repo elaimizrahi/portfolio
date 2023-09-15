@@ -261,7 +261,7 @@ the car's movement"
               <a href={"https://github.com/elaimizrahi"}>
                 <img src={github} height={60} width={60} />
               </a>
-              <a href={"https://linkedin.com/elai-mizrahi"}>
+              <a href={"https://linkedin.com/in/elai-mizrahi"}>
                 <img src={linkedin} height={60} width={60} />
               </a>
               <a href={"tel:2269882795"}>
