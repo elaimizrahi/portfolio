@@ -59,7 +59,7 @@ function App() {
                 I am currently entering my second year of studying Software
                 Engineering at the University of Waterloo. Most recently, I
                 completed a co-op term at Secoda, a YC S21 company, developing
-                fullstack features for the engineeering team. I am now looking
+                fullstack features for the engineering team. I am now looking
                 for a Winter 2024 co-op position in software engineering or a
                 related field. You can reach me at emizrahi@uwaterloo.ca, or
                 click any of the links at the bottom of the page.
